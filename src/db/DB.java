@@ -25,6 +25,8 @@ public class DB {
 			}
 		}
 		return conn;
+		
+		//oi
 	}
 	
 	public static void closeConnection() {
